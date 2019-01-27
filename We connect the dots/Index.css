@@ -1,0 +1,9 @@
+body {
+    color: red;
+    background-color: rgb(0, 0, 0)
+}
+
+p#media {
+    color: red;
+}
+#title{color:blue;}
